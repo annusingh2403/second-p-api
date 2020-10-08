@@ -1,0 +1,37 @@
+[
+    {
+        "_id":"1",
+        "name":"mobile",
+        "url":"https://i.ibb.co/FqfHWBm/${item.name}.jpg"
+    },
+    {
+        "_id":"2",
+        "name":"electronics",
+        "url":"https://i.ibb.co/S35JBg4/${item.name}.jpg"
+    },
+    {
+        "_id":"3",
+        "name":"fashion",
+        "url":"https://i.ibb.co/56Shsxy/${item.name}.png"
+    },
+    {
+        "_id":"4",
+        "name":"tv",
+        "url":"https://i.ibb.co/VLmmnsC/${item.name}.png"
+    },
+    {
+        "_id":"5",
+        "name":"furniture",
+        "url":"https://i.ibb.co/QK1C1KZ/${item.name}.webp"
+    },
+    {
+        "_id":"6",
+        "name":"home",
+        "url":"https://i.ibb.co/7Jj3C4H/${item.name}.jpg"
+    },
+    {
+        "_id":"7",
+        "name":"games",
+        "url":"https://i.ibb.co/v3yrP3G/${item.name}.webp"
+    }
+]
